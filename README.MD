@@ -7,7 +7,6 @@ Tested on [Node.js](https://nodejs.org/) v7.10.
 Install the dependencies and start the server.
 
 ```sh
-$ cd whirlpool-lp
 $ npm install
 $ node index.js
 ```
